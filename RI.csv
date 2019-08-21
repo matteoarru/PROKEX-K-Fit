@@ -1,0 +1,14 @@
+,MAROSTICGI,anncomino,mateoarru,mbesa,pradella,roberto,rporati,rsaccelli,selenia,sironi stefania,veneri marco
+Business operation,False,False,True,True,True,True,True,True,True,False,False
+Dispatcher / shift supervisor,False,True,False,True,True,False,False,False,False,True,False
+Local Logistics person responsible for transportation,False,False,False,True,True,False,False,False,False,False,False
+Local Retail,False,False,False,False,False,False,False,True,False,False,False
+Local Sales,False,False,False,False,False,False,False,False,True,False,False
+Local product storage management,True,False,True,False,False,True,True,False,False,False,True
+Maintenance management,True,False,False,False,False,False,False,False,False,False,True
+Operator,True,False,True,False,False,True,True,False,False,False,True
+Quality Control,True,False,True,False,False,True,True,False,False,False,True
+SSC,False,False,False,False,False,False,False,False,False,False,False
+Scheduler,False,True,False,True,True,False,False,False,False,True,False
+Technical execution,True,False,True,False,False,True,True,False,False,False,True
+Terminal manager,False,False,True,False,False,True,True,False,False,False,False

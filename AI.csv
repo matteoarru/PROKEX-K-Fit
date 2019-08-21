@@ -1,0 +1,57 @@
+,MAROSTICGI,anncomino,mateoarru,mbesa,pradella,roberto,rporati,rsaccelli,selenia,sironi stefania,veneri marco
+100. Metrology,True,False,True,False,False,True,True,False,False,False,True
+110.1.a Administrative return goods,False,False,True,False,False,True,True,False,False,False,False
+110.1.b Physical Return goods handling,False,False,True,False,False,True,True,False,False,False,False
+110.2. Off-spec product management,False,False,True,False,False,True,True,False,False,False,False
+120. Reporting,False,False,True,False,False,True,True,False,False,False,False
+Acceptance/transfer in tank,False,True,False,True,True,False,False,False,False,True,False
+Calculating necessary transportation capacity,False,False,False,True,True,False,False,False,False,False,False
+Checking loading conditions  - Train,False,True,False,True,True,False,False,False,False,True,False
+Checking loading conditions - Barge,False,True,False,True,True,False,False,False,False,True,False
+Checking loading conditions - Road,False,True,False,True,True,False,False,False,False,True,False
+Controlling the quality,False,True,False,True,True,False,False,False,False,True,False
+Controlling the quantity - Barge,False,True,False,True,True,False,False,False,False,True,False
+Controlling the quantity - Pipeline,False,True,False,True,True,False,False,False,False,True,False
+Controlling the quantity - RTC,False,True,False,True,True,False,False,False,False,True,False
+Controlling the quantity - RoTC,False,True,False,True,True,False,False,False,False,True,False
+Create transportation plan for next day/shift,False,True,False,True,True,False,False,False,False,True,False
+Defining optimal (target) replenishment inventory level,False,False,False,True,True,False,False,False,False,False,False
+Ensure available capacity,False,False,False,True,True,False,False,False,False,False,False
+Execution – autonomous maintenance,False,False,True,True,True,True,True,True,True,False,False
+Execution – routine maintenance,True,False,True,False,False,True,True,False,False,False,True
+Inspecting the vehicle,False,True,False,True,True,False,False,False,False,True,False
+Inventory checking (FS & VMI accounts),False,True,False,True,True,False,False,False,False,True,False
+Inventory checking - managing data quality,False,True,False,True,True,False,False,False,False,True,False
+Issuing the transport documents - Barge,False,True,False,True,True,False,False,False,False,True,False
+Issuing the transport documents - Train,False,True,False,True,True,False,False,False,False,True,False
+Issuing the transport documents-Road,False,True,False,True,True,False,False,False,False,True,False
+Loading the transport means  - Train,True,False,True,False,False,True,True,False,False,False,True
+Loading the transport means - Barge,True,False,True,False,False,True,True,False,False,False,True
+Loading the transport means -Road,True,False,True,False,False,True,True,False,False,False,True
+"Making preparations for product reception, reviewing the transport documents",False,False,True,False,False,True,True,False,False,False,False
+Monitor FS (VMI) turnover,False,False,False,True,True,False,False,False,False,False,False
+Notification,True,False,False,False,False,False,False,False,False,False,True
+Order generation for filling stations (VMI accounts),False,True,False,True,True,False,False,False,False,True,False
+"Plan-Fact evaluation, controlling",False,False,False,True,True,False,False,False,False,False,False
+Planning and Scheduling,False,False,False,False,False,False,False,False,False,False,False
+Quality control - Barge,True,False,True,False,False,True,True,False,False,False,True
+Quality control - Train,True,False,True,False,False,True,True,False,False,False,True
+Quality control- Road,True,False,True,False,False,True,True,False,False,False,True
+"Receiving Retail business plans, forecasted delivery volumes",False,False,False,False,False,False,False,True,False,False,False
+"Receiving Wholesale business plans, forecasted delivery volumes",False,False,False,False,False,False,False,False,True,False,False
+Receiving actual information about delivery fulfillment from haulers,False,True,False,True,True,False,False,False,False,True,False
+"Receiving customer orders, forwarding to R&S",False,False,False,False,False,False,False,False,True,False,False
+Receiving daily inventory and sales reports from FSs (and other VMI accounts),False,False,False,False,False,False,False,True,False,False,False
+Receiving the transport means - Barge,False,True,False,True,True,False,False,False,False,True,False
+Receiving the transport means - Train,False,True,False,True,True,False,False,False,False,True,False
+Receiving the transport means-Road,False,True,False,True,True,False,False,False,False,True,False
+Record keeping and registration in inventory,False,True,False,True,True,False,False,False,False,True,False
+Sales forecasting,False,True,False,True,True,False,False,False,False,True,False
+Sending confirmation about scheduled delivery time to local Sales organisation and/or customers and/or FS,False,True,False,True,True,False,False,False,False,True,False
+Sending information about transportation plans to haulers and/or terminals,False,True,False,True,True,False,False,False,False,True,False
+"Transferring the risk of product, registering the discharge  - Train",False,True,False,True,True,False,False,False,False,True,False
+"Transferring the risk of product, registering the discharge - Barge",False,True,False,True,True,False,False,False,False,True,False
+"Transferring the risk of product, registering the discharge- Road",False,True,False,True,True,False,False,False,False,True,False
+Unloading,True,False,True,False,False,True,True,False,False,False,True
+Verification,True,False,False,False,False,False,False,False,False,False,True
+Work order selection (RBWS),True,False,False,False,False,False,False,False,False,False,True

@@ -1,0 +1,56 @@
+100. Metrology
+110.1.a Administrative return goods
+110.1.b Physical Return goods handling
+110.2. Off-spec product management
+120. Reporting
+Acceptance/transfer in tank
+Calculating necessary transportation capacity
+Checking loading conditions  - Train
+Checking loading conditions - Barge
+Checking loading conditions - Road
+Controlling the quality
+Controlling the quantity - Barge
+Controlling the quantity - Pipeline
+Controlling the quantity - RTC
+Controlling the quantity - RoTC
+Create transportation plan for next day/shift
+Defining optimal (target) replenishment inventory level
+Ensure available capacity
+Execution – autonomous maintenance
+Execution – routine maintenance
+Inspecting the vehicle
+Inventory checking (FS & VMI accounts)
+Inventory checking - managing data quality
+Issuing the transport documents - Barge
+Issuing the transport documents - Train
+Issuing the transport documents-Road
+Loading the transport means  - Train
+Loading the transport means - Barge
+Loading the transport means -Road
+"Making preparations for product reception, reviewing the transport documents"
+Monitor FS (VMI) turnover
+Notification
+Order generation for filling stations (VMI accounts)
+"Plan-Fact evaluation, controlling"
+Planning and Scheduling
+Quality control - Barge
+Quality control - Train
+Quality control- Road
+"Receiving Retail business plans, forecasted delivery volumes"
+"Receiving Wholesale business plans, forecasted delivery volumes"
+Receiving actual information about delivery fulfillment from haulers
+"Receiving customer orders, forwarding to R&S"
+Receiving daily inventory and sales reports from FSs (and other VMI accounts)
+Receiving the transport means - Barge
+Receiving the transport means - Train
+Receiving the transport means-Road
+Record keeping and registration in inventory
+Sales forecasting
+Sending confirmation about scheduled delivery time to local Sales organisation and/or customers and/or FS
+Sending information about transportation plans to haulers and/or terminals
+"Transferring the risk of product, registering the discharge  - Train"
+"Transferring the risk of product, registering the discharge - Barge"
+"Transferring the risk of product, registering the discharge- Road"
+Unloading
+Verification
+Work order selection (RBWS)

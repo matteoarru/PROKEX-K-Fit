@@ -1,0 +1,4 @@
+SERVER: studiodb.corvinno.com
+213.181.195.51
+USERNAME: phpmyadmin
+PASSWORD: Opt1m4lC0ntr0l

@@ -1,0 +1,14 @@
+,Dispatcher,Maintenance Manager,Retail Manager,Terminal Manager,Transportation Manager,Wholesale Manager
+Business operation,False,False,True,True,True,True
+Dispatcher / shift supervisor,True,False,False,False,True,False
+Local Logistics person responsible for transportation,False,False,False,False,True,False
+Local Retail,False,False,True,False,False,False
+Local Sales,False,False,False,False,False,True
+Local product storage management,False,True,False,True,False,False
+Maintenance management,False,True,False,False,False,False
+Operator,False,True,False,True,False,False
+Quality Control,False,True,False,True,False,False
+SSC,False,False,False,False,False,False
+Scheduler,True,False,False,False,True,False
+Technical execution,False,True,False,True,False,False
+Terminal manager,False,False,False,True,False,False

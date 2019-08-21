@@ -1,0 +1,57 @@
+,Dispatcher,Maintenance Manager,Retail Manager,Terminal Manager,Transportation Manager,Wholesale Manager
+100. Metrology,False,True,False,True,False,False
+110.1.a Administrative return goods,False,False,False,True,False,False
+110.1.b Physical Return goods handling,False,False,False,True,False,False
+110.2. Off-spec product management,False,False,False,True,False,False
+120. Reporting,False,False,False,True,False,False
+Acceptance/transfer in tank,True,False,False,False,True,False
+Calculating necessary transportation capacity,False,False,False,False,True,False
+Checking loading conditions  - Train,True,False,False,False,True,False
+Checking loading conditions - Barge,True,False,False,False,True,False
+Checking loading conditions - Road,True,False,False,False,True,False
+Controlling the quality,True,False,False,False,True,False
+Controlling the quantity - Barge,True,False,False,False,True,False
+Controlling the quantity - Pipeline,True,False,False,False,True,False
+Controlling the quantity - RTC,True,False,False,False,True,False
+Controlling the quantity - RoTC,True,False,False,False,True,False
+Create transportation plan for next day/shift,True,False,False,False,True,False
+Defining optimal (target) replenishment inventory level,False,False,False,False,True,False
+Ensure available capacity,False,False,False,False,True,False
+Execution – autonomous maintenance,False,False,True,True,True,True
+Execution – routine maintenance,False,True,False,True,False,False
+Inspecting the vehicle,True,False,False,False,True,False
+Inventory checking (FS & VMI accounts),True,False,False,False,True,False
+Inventory checking - managing data quality,True,False,False,False,True,False
+Issuing the transport documents - Barge,True,False,False,False,True,False
+Issuing the transport documents - Train,True,False,False,False,True,False
+Issuing the transport documents-Road,True,False,False,False,True,False
+Loading the transport means  - Train,False,True,False,True,False,False
+Loading the transport means - Barge,False,True,False,True,False,False
+Loading the transport means -Road,False,True,False,True,False,False
+"Making preparations for product reception, reviewing the transport documents",False,False,False,True,False,False
+Monitor FS (VMI) turnover,False,False,False,False,True,False
+Notification,False,True,False,False,False,False
+Order generation for filling stations (VMI accounts),True,False,False,False,True,False
+"Plan-Fact evaluation, controlling",False,False,False,False,True,False
+Planning and Scheduling,False,False,False,False,False,False
+Quality control - Barge,False,True,False,True,False,False
+Quality control - Train,False,True,False,True,False,False
+Quality control- Road,False,True,False,True,False,False
+"Receiving Retail business plans, forecasted delivery volumes",False,False,True,False,False,False
+"Receiving Wholesale business plans, forecasted delivery volumes",False,False,False,False,False,True
+Receiving actual information about delivery fulfillment from haulers,True,False,False,False,True,False
+"Receiving customer orders, forwarding to R&S",False,False,False,False,False,True
+Receiving daily inventory and sales reports from FSs (and other VMI accounts),False,False,True,False,False,False
+Receiving the transport means - Barge,True,False,False,False,True,False
+Receiving the transport means - Train,True,False,False,False,True,False
+Receiving the transport means-Road,True,False,False,False,True,False
+Record keeping and registration in inventory,True,False,False,False,True,False
+Sales forecasting,True,False,False,False,True,False
+Sending confirmation about scheduled delivery time to local Sales organisation and/or customers and/or FS,True,False,False,False,True,False
+Sending information about transportation plans to haulers and/or terminals,True,False,False,False,True,False
+"Transferring the risk of product, registering the discharge  - Train",True,False,False,False,True,False
+"Transferring the risk of product, registering the discharge - Barge",True,False,False,False,True,False
+"Transferring the risk of product, registering the discharge- Road",True,False,False,False,True,False
+Unloading,False,True,False,True,False,False
+Verification,False,True,False,False,False,False
+Work order selection (RBWS),False,True,False,False,False,False
